@@ -1,0 +1,14 @@
+C:\Users\jazli\Documents\ITLA\6to Cuatrimestre\Electiva II - Int. a DevOps\P - Integración Continua\HolaMundo\bin\Debug\net9.0\HolaMundo.exe
+C:\Users\jazli\Documents\ITLA\6to Cuatrimestre\Electiva II - Int. a DevOps\P - Integración Continua\HolaMundo\bin\Debug\net9.0\HolaMundo.deps.json
+C:\Users\jazli\Documents\ITLA\6to Cuatrimestre\Electiva II - Int. a DevOps\P - Integración Continua\HolaMundo\bin\Debug\net9.0\HolaMundo.runtimeconfig.json
+C:\Users\jazli\Documents\ITLA\6to Cuatrimestre\Electiva II - Int. a DevOps\P - Integración Continua\HolaMundo\bin\Debug\net9.0\HolaMundo.dll
+C:\Users\jazli\Documents\ITLA\6to Cuatrimestre\Electiva II - Int. a DevOps\P - Integración Continua\HolaMundo\bin\Debug\net9.0\HolaMundo.pdb
+C:\Users\jazli\Documents\ITLA\6to Cuatrimestre\Electiva II - Int. a DevOps\P - Integración Continua\HolaMundo\obj\Debug\net9.0\HolaMundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jazli\Documents\ITLA\6to Cuatrimestre\Electiva II - Int. a DevOps\P - Integración Continua\HolaMundo\obj\Debug\net9.0\HolaMundo.AssemblyInfoInputs.cache
+C:\Users\jazli\Documents\ITLA\6to Cuatrimestre\Electiva II - Int. a DevOps\P - Integración Continua\HolaMundo\obj\Debug\net9.0\HolaMundo.AssemblyInfo.cs
+C:\Users\jazli\Documents\ITLA\6to Cuatrimestre\Electiva II - Int. a DevOps\P - Integración Continua\HolaMundo\obj\Debug\net9.0\HolaMundo.csproj.CoreCompileInputs.cache
+C:\Users\jazli\Documents\ITLA\6to Cuatrimestre\Electiva II - Int. a DevOps\P - Integración Continua\HolaMundo\obj\Debug\net9.0\HolaMundo.dll
+C:\Users\jazli\Documents\ITLA\6to Cuatrimestre\Electiva II - Int. a DevOps\P - Integración Continua\HolaMundo\obj\Debug\net9.0\refint\HolaMundo.dll
+C:\Users\jazli\Documents\ITLA\6to Cuatrimestre\Electiva II - Int. a DevOps\P - Integración Continua\HolaMundo\obj\Debug\net9.0\HolaMundo.pdb
+C:\Users\jazli\Documents\ITLA\6to Cuatrimestre\Electiva II - Int. a DevOps\P - Integración Continua\HolaMundo\obj\Debug\net9.0\HolaMundo.genruntimeconfig.cache
+C:\Users\jazli\Documents\ITLA\6to Cuatrimestre\Electiva II - Int. a DevOps\P - Integración Continua\HolaMundo\obj\Debug\net9.0\ref\HolaMundo.dll
